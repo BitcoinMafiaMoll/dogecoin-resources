@@ -148,6 +148,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Faucets
 
+- [Bitcoin Mafia Dogecoin Faucet] (http://bitcoinmafia.com/dogecoin/free-dogecoin-faucets/free-dogecoin-faucet-bitcoin-mafia)
 - [Doge faucet](http://dogefaucet.niau.org/)
 - [Faucet.io](http://faucet.io)
 - [Phunsauce Dogecoin Faucet](http://phunsauce.com)

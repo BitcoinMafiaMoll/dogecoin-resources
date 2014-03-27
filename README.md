@@ -151,6 +151,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Doge faucet](http://dogefaucet.niau.org/)
 - [Faucet.io](http://faucet.io)
 - [Phunsauce Dogecoin Faucet](http://phunsauce.com)
+- [Bitcoin Mafia's Dogecoin Faucet] (http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet)
 - [The Moon Race](http://www.moonrace.tk)
 - [CryptoBucket Faucet #1](http://cryptobucket.com/dogecoin_faucet.php)
 - [CryptoBucket Faucet #2] (http://cryptobucket.com/dogecoin_faucet2.php)
